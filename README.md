@@ -1,7 +1,6 @@
 # 🔥 Book
 
 This is the Bernie Sanders Issues page, modified to be more searchable and cacheable. 😁
-https://github.com/ComeOnFeelTheBern/bernbook
 - Links open in new tabs.
 - Accordions are always opened.
 - Extra elements are hidden.

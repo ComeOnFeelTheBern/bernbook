@@ -6,11 +6,4 @@ This is Bernie Sanders' [Issues page](https://berniesanders.com/issues/), modifi
 - Extra elements are hidden.
 
 Want to update the issues?
-- Copy the HTML from https://berniesanders.com/issues/
-- Paste it to replace the HTML in the `index.html` file. Please don't erase the instructive HTML comment at the top though. 🙏
-- Update the HTML by putting the following two lines in the `<head>` element.
-
-```html
-<link rel="stylesheet" href="style.css">
-<script src="app.js"></script>
-```
+- Please follow the instructions in [`index.html`](https://github.com/ComeOnFeelTheBern/bernbook/blob/master/index.html).

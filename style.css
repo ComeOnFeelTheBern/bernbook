@@ -1,0 +1,16 @@
+/* Disable accordions. */
+.accordion-toggle {
+  display: none !important;
+}
+.collapse:not(.show) {
+  display: block !important;
+}
+
+/* Hide extra elements. */
+#nav,
+#headerContainer,
+#backgroundScrim,
+#issues-accordion > section,
+footer {
+  display: none !important;
+}

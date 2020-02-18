@@ -1,6 +1,6 @@
 # 🔥 Book
 
-This is the Bernie Sanders Issues page, modified to be more searchable and cacheable. 😁
+This is Bernie Sanders' [Issues page](https://berniesanders.com/issues/), modified to be more searchable and cacheable. 😁
 - Links open in new tabs.
 - Accordions are always opened.
 - Extra elements are hidden.

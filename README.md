@@ -7,7 +7,7 @@ This is Bernie Sanders' [Issues page](https://berniesanders.com/issues/), modifi
 
 Want to update the issues?
 - Copy the HTML from https://berniesanders.com/issues/
-- Paste it to replace the HTML below.
+- Paste it to replace the HTML in the `index.html` file. Please don't erase the instructive HTML comment at the top though. 🙏
 - Update the HTML by putting the following two lines in the `<head>` element.
 
 ```html
